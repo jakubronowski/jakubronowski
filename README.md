@@ -19,5 +19,3 @@ Deputy Team Lead and Lab Support & Validation Specialist at **Experis**, current
 - **[bash-file-guardian](https://github.com/jakubronowski/bash-file-guardian)** — Linux shell utility for automated sorting, integrity verification, and encrypted 7z backups.
 
 ---
-
-📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/jakub-ronowski)
