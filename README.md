@@ -14,6 +14,7 @@ Deputy Team Lead and Lab Support & Validation Specialist at **Experis**, current
 
 ### 📌 Selected Work & Utilities
 
+- **[virtual-world](https://github.com/jakubronowski/virtual-world)** — A turn-based 2D ecosystem simulation designed to showcase Modern C++ best practices, clean OOP design, and automated testing.
 - **[nupkg-relay](https://github.com/jakubronowski/nupkg-relay)** — Production-grade Linux daemon automating Chocolatey package builds, SMB monitoring, and Nexus deployment.
 - **[windows-model-based-driver-installer](https://github.com/jakubronowski/windows-model-based-driver-installer)** — Hardware-model-aware driver provisioning utility for WDS/ZTI automated OS deployments.
 - **[bash-file-guardian](https://github.com/jakubronowski/bash-file-guardian)** — university project - Linux shell utility for automated sorting, integrity verification, and encrypted 7z backups.
